@@ -114,3 +114,14 @@ h1 {
 p {
     color: var(--key-text-color);
 }
+
+p2 {
+    color: var(--key-text-color);
+    display: block;
+    text-transform: uppercase;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
