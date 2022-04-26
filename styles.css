@@ -43,7 +43,7 @@ body {
 }
 
 /* Dark Theme Colors */
-.darkmode {
+.dark-mode {
     --color-tone-1: #ffffff;
     --color-tone-2: #818384;
     --color-tone-3: #565758;
@@ -57,7 +57,7 @@ body {
 
 /* Constant colors and colors derived from theme */
 :root,
-.darkmode {
+.dark-mode {
     --color-background: var(--color-tone-7);
 }
 :root {
@@ -73,7 +73,7 @@ body {
     --key-bg-absent: var(--color-absent);
     --modal-content-bg: var(--color-tone-7);
 }
-.darkmode {
+.dark-mode {
     --color-present: var(--darkendYellow);
     --color-correct: var(--darkendGreen);
     --color-absent: var(--color-tone-4);
